@@ -25,6 +25,6 @@ print(myFunction2(with: "수원삼성"))
 func myFunction3(_ name: String) -> String {
     return "안녕하세요. \(name)입니다."
 }
-print(myFunction3("수원삼성우승"))
-// 안녕하세요. 수원삼성우승입니다.
+print(myFunction3("수원삼성 블루윙즈"))
+// 안녕하세요. 수원삼성 블루윙즈입니다.
 
